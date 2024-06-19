@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Оголошення глобальних констант для розміру поля і меж часу на хід
+
 const int MIN_BOARD_SIZE = 3;
 const int MAX_BOARD_SIZE = 10;
 const int MIN_TURN_TIME = 5;
